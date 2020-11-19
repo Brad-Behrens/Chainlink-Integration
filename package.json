@@ -1,0 +1,22 @@
+{
+  "name": "Chainlink-Integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate",
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brad-Behrens/Chainlink-Integration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brad-Behrens/Chainlink-Integration/issues"
+  },
+  "homepage": "https://github.com/Brad-Behrens/Chainlink-Integration#readme"
+}
