@@ -6,7 +6,8 @@
   "scripts": {
     "compile": "truffle compile",
     "migrate": "truffle migrate",
-    "test": "truffle test"
+    "test": "truffle test",
+    "ganache": "ganache-cli"
   },
   "repository": {
     "type": "git",
